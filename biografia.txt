@@ -1,9 +1,8 @@
-mi nobre es juan carlos,
-estudiae ingenieria de software
+mi nombre es juan carlos,
+estudio ing. de software con ia,
 
-I was born in puno city,
 
-i have estudied systen
-in senati instituto
+naci  en juliaca,
+estudie ing. de software con ia en la universidad nacional de juliaca,
 
-vivo en la ciudad de Juliaca con mis familiares.
+vivo en la ciudad de juliaca con mis familiares.
